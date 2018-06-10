@@ -1,0 +1,10 @@
+# ignore all
+*
+
+# unignore dir
+!*/
+
+# unignore test
+!test*
+!.gitignore
+!*.txt
